@@ -1,5 +1,5 @@
 package gr.aueb.StopSpread;
-//class for URL
+//class for url
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
